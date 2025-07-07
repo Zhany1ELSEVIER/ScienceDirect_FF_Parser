@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='sciencedirectFlatFileParse',
-    version='0.2.0',
+    version='1.0.0',
     description='A parser for ScienceDirect Flat File XML files',
     author='DaaS_CSC',
     author_email='',

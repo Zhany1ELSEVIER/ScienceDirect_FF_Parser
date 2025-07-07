@@ -1,2 +1,5 @@
 # ScienceDirect_FF_Parser
-A python package for parsing ScienceDirect Flatfile
+
+A python package for parsing ScienceDirect Flatfile: 
+
+Elsevier Customer Success Team @ Datasets Business
